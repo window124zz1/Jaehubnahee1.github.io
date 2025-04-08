@@ -1,0 +1,7 @@
+.text2 {
+    font-size: larger;
+    font-size: 700px;
+    text-align: center;
+    color: black;
+    transform: translateY(-500px);
+}
